@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea42aa80-40d3-427c-bec4-020c66a26496" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ov62gah3AuKCCem0zSb1sWt96Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea42aa80-40d3-427c-bec4-020c66a26496" name="Default Changelist" comment="" />
+      <created>1614154511871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614154511871</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="140" width="1200" height="788" key="AVDManager" timestamp="1614427539211">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="352" y="140" width="1200" height="788" key="AVDManager/0.0.1707.1027@0.0.1707.1027" timestamp="1614427539211" />
+    <state x="511" y="248" key="SettingsEditor" timestamp="1614154957534">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="511" y="248" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1614154957534" />
+  </component>
+</project>
